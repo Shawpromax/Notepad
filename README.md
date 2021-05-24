@@ -96,6 +96,6 @@ values.put(NotePad.Notes.COLUMN_NAME_MODIFICATION_DATE, format);
 
 5.记事本结果如下：
 
-<img src="D:\Android\NotePad-master\result_screenshot\result01.png" alt="result01" style="zoom:50%;" />
+![result01](https://github.com/Shawpromax/Notepad/blob/master/result_screenshot/result01.png)
 
-<img src="D:\Android\NotePad-master\result_screenshot\result02.png" alt="result02" style="zoom:50%;" />
+![result02](https://github.com/Shawpromax/Notepad/blob/master/result_screenshot/result02.png)
